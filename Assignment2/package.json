@@ -1,0 +1,24 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Assignment to create npm project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm nodemaon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnuradhaChannappa/NodeJS.git"
+  },
+  "author": "Anuradha Channappa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnuradhaChannappa/NodeJS/issues"
+  },
+  "homepage": "https://github.com/AnuradhaChannappa/NodeJS#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
